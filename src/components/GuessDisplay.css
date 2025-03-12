@@ -1,0 +1,60 @@
+.guess-display {
+  margin-top: 20px;
+}
+
+.guess-display h3 {
+  margin-top: 0;
+  color: #333;
+}
+
+.guess-waiting {
+  color: #666;
+  font-style: italic;
+}
+
+.guess-loading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 15px;
+}
+
+.guess-result {
+  padding: 15px;
+  border-radius: 8px;
+  margin-top: 10px;
+}
+
+.guess-result.correct {
+  background-color: #e8f5e9;
+  border-left: 4px solid #4caf50;
+}
+
+.guess-result.incorrect {
+  background-color: #ffebee;
+  border-left: 4px solid #f44336;
+}
+
+.guess-text {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin: 0 0 10px 0;
+}
+
+.guess-feedback {
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.guess-feedback.correct {
+  background-color: #c8e6c9;
+}
+
+.guess-feedback.incorrect {
+  background-color: #ffcdd2;
+}
+
+.guess-feedback p {
+  margin: 5px 0;
+} 
