@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // OpenRouter API key
-const OPENROUTER_API_KEY = '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';
+const OPENROUTER_API_KEY = 'klucz api openrouter';
 
 // Available AI models for guessing
 export const AI_MODELS = [
