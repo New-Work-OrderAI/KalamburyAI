@@ -1,7 +1,7 @@
 import axios from 'axios';
 
-// OpenRouter API key
-const OPENROUTER_API_KEY = 'klucz api openrouter';
+// OpenRouter API key from environment variable
+const OPENROUTER_API_KEY = process.env.REACT_APP_OPENROUTER_API_KEY || 'klucz api openrouter';
 
 // Available AI models for guessing
 export const AI_MODELS = [
