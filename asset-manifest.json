@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/KalamburyAI/static/css/main.c998969a.css",
-    "main.js": "/KalamburyAI/static/js/main.ac5564f0.js",
-    "static/js/453.54dd35bd.chunk.js": "/KalamburyAI/static/js/453.54dd35bd.chunk.js",
-    "index.html": "/KalamburyAI/index.html",
-    "main.c998969a.css.map": "/KalamburyAI/static/css/main.c998969a.css.map",
-    "main.ac5564f0.js.map": "/KalamburyAI/static/js/main.ac5564f0.js.map",
-    "453.54dd35bd.chunk.js.map": "/KalamburyAI/static/js/453.54dd35bd.chunk.js.map"
+    "main.css": "/static/css/main.c998969a.css",
+    "main.js": "/static/js/main.a429d90c.js",
+    "static/js/453.54dd35bd.chunk.js": "/static/js/453.54dd35bd.chunk.js",
+    "index.html": "/index.html",
+    "main.c998969a.css.map": "/static/css/main.c998969a.css.map",
+    "main.a429d90c.js.map": "/static/js/main.a429d90c.js.map",
+    "453.54dd35bd.chunk.js.map": "/static/js/453.54dd35bd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c998969a.css",
-    "static/js/main.ac5564f0.js"
+    "static/js/main.a429d90c.js"
   ]
 }
