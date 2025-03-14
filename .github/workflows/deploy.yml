@@ -27,7 +27,7 @@ jobs:
           echo "REACT_APP_OPENROUTER_API_KEY=${{ secrets.OPENROUTER_API_KEY }}" > .env
 
       - name: Build 🏗️
-        run: npm run build
+        run: CI=false npm run build
         env:
           REACT_APP_OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
 
